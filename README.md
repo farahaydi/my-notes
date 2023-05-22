@@ -16,39 +16,48 @@ LEARNING NEW SKILLS.
 ---
 ## second paragraph What I learned :
 
-today's lecture is about :
-
-1. Learn the difference between GUI and CLI
-2. Understand basic terminal commands
-3. Understand VCS
-4. Learn what is Git
-5. Learn basic Git commands
-   - git add . 
-   - git  commit -m "whatever"
-   - git push origin main 
-6. Learn what is Github
-7. Learn the difference between Git and GitHub
-8. Learn Markdown language with its features.
-9. Clone a repository using SSH
-   - using this command -->  cd && ssh-keygen && cat ~/.ssh/id_rsa.pub
-
 ---
-> **Repository** is a container contain our projects(it's like dir)
+ key points that every developer must master: 
+ 
 
-> **Cloning** take our repository and put it in local
->
->> (take to cloudy copy and put it locally)
+1. Common issues talked about by developers:
+   - These issues are frequently discussed among developers.
+   - They are experienced in every development team.
 
-> **git** is a command to connect between your local and github
->
->> (take the local project and put it in github)
+2. Harmful factors that affect developers' projects:
+   - Small factors gradually harm projects, but their destructive impact is not immediate.
+   - Long-term damage is caused, often unnoticed for a year or more.
+   - Initially, these factors may seem harmless or even fine during implementation.
+   - Over time, as more of these factors accumulate, the complexity grows and leads to negative outcomes.
 
----
-### We Learned About ubunto commanad Like:
-- cd
-- mkdir
-- clear
-- ls
-- explorer.exe .
-- rmdir
-- ls -a
+3. Embracing fundamental laws of software and developing a proper mindset:
+   - Understanding the purpose of software, which is to help people.
+   - Prioritizing feature requests based on how they contribute to helping users.
+   - Designing software systems that are easy to create, maintain, and helpful for users.
+   - The importance of understanding the work to avoid developing complex systems.
+   - Simplicity as the ultimate sophistication in programming.
+   - Avoiding complexity and prioritizing simplicity to reduce bugs and improve understanding.
+   - Controlling complexity as the essence of computer programming.
+   - Recognizing the significance of maintenance in software development.
+   - Consistency and its role in maintaining simplicity.
+   - Prioritizing features based on desirability, value, and effort.
+   - Problem-solving approach: understanding, planning, and dividing the problem.
+   - Accepting that good enough is fine rather than pursuing perfection.
+   - Being cautious of unnecessary predictions and assumptions that lead to unnecessary complexity.
+   - Designing code based on current knowledge rather than speculative future needs.
+- Stop Reinventing:
+  - Avoid creating your own versions of existing solutions if they already work well.
+  - Creating your own versions can consume a lot of time that could be better spent on other software development tasks.
+  - Exceptions to this rule are when you need something that doesn't exist yet, existing options are inadequate for your needs, or the existing solutions are not properly maintained.
+  - The simple rule is to not reinvent the wheel.
+
+- Resistance:
+  - Initially, developers should resist changing requests and adding more code or features.
+  - Changes should only be implemented when there is a clear requirement and necessity for them.
+  - Unnecessary changes can introduce defects into the software.
+  - To determine the need for changes, developers should revisit the software's purpose and consider the prioritization equation mentioned in a previous section.
+
+- Automation:
+  - Avoid spending time on repetitive tasks.
+  - Instead, automate those tasks so they can work automatically while you're not actively engaged, even during sleep.
+  - When you find yourself repeatedly doing something, remember the rule: If it can be automated, automate it.
